@@ -1,8 +1,12 @@
 body {
 	margin: 0;
 	font-family: Helevetica;
+	font-weight: lighter;
 }
 
+h1 {
+	font-weight: lighter;
+}
 
 #logo{
 	height: 80px;
